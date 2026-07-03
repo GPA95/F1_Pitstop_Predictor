@@ -27,6 +27,10 @@
 
 ## 🔧 Approach
 
+<img width="1980" height="5116" alt="diagram" src="https://github.com/user-attachments/assets/f4814c95-eaa4-429f-b3dd-7f09387bf07b" />
+
+©️🖼️ Diagram Credits: [https://gitdiagram.com/](https://gitdiagram.com/)
+
 ### Data Preprocessing
 - Categorical encoding: Label encoding for `Driver`, `Compound`, `Race`
 - Train/validation split: 80/20 stratified
